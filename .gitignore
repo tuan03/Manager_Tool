@@ -1,0 +1,9 @@
+/build
+build.cmd
+copyTool.cmd
+TOOL_MAIN.spec
+__pycache__/
+*.pyc
+*.pyo
+TOOL_MAIN.py
+*.log
