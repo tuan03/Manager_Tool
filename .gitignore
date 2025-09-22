@@ -8,3 +8,4 @@ __pycache__/
 TOOL_MAIN.py
 *.log
 data.txt
+rut_tien.py
