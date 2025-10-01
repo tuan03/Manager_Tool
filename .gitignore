@@ -12,3 +12,13 @@ rut_tien.py
 /report_port/build
 /report_port/myapp.spec
 /report_port/myapp.py
+temp.py
+temp.txt
+9proxy_manager.py
+proxy_tool.db
+proxy_tool.db-shm
+proxy_tool.db-wal
+buildToolProxy.cmd
+9proxy_manager.spec
+ta.py
+testRUTTIEN.py
