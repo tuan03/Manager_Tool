@@ -22,3 +22,5 @@ buildToolProxy.cmd
 9proxy_manager.spec
 ta.py
 testRUTTIEN.py
+config.json
+convert_icon.py
