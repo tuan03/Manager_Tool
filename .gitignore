@@ -25,3 +25,7 @@ testRUTTIEN.py
 config.json
 convert_icon.py
 log.txt
+/data
+sticky_pick_build.cmd
+sticky_pick.py
+sticky_pick.spec
